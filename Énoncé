@@ -1,0 +1,91 @@
+Exercice 1 : "Hello, World!"
+
+Description : Écrire un programme qui affiche "Hello, World!" à l'écran.
+
+    Objectif : Se familiariser avec la syntaxe de base de l'assembleur AT&T, les sections .data et .text, et les appels système pour l'affichage.
+
+___________________________________________________________________________
+Exercice 2 : Addition de deux nombres
+
+Description : Écrire un programme qui additionne deux nombres et affiche le résultat.
+
+    Objectif : Apprendre à manipuler les registres et les instructions arithmétiques de base.
+__________________________________________________________________________
+Exercice 3 : Boucle simple
+
+Description : Écrire un programme qui affiche les nombres de 1 à 10.
+
+    Objectif : Comprendre les boucles en assembleur, les instructions de comparaison et de saut.
+__________________________________________________________________________
+Exercice 4 : Tableau et somme des éléments
+
+Description : Écrire un programme qui initialise un tableau de 5 entiers, puis calcule et affiche la somme de ces entiers.
+
+    Objectif : Manipuler les tableaux en mémoire, utiliser les boucles pour itérer sur les éléments et les instructions de gestion de la mémoire.
+__________________________________________________________________________
+Exercice 5 : Fonction récursive (facteuriel)
+
+Description : Écrire un programme qui calcule le facteuriel d'un nombre en utilisant une fonction récursive.
+
+    Objectif : Comprendre les appels de fonction, la pile (stack), et la gestion des registres de sauvegarde.
+__________________________________________________________________________
+Exercice 6 : Tri par sélection
+
+Description : Implémenter l'algorithme de tri par sélection pour trier un tableau d'entiers.
+
+    Objectif : Apprendre à manipuler les algorithmes de tri en assembleur, gestion des boucles imbriquées et optimisation de la manipulation de la mémoire.
+__________________________________________________________________________
+Exercice 7 : Gestion des chaînes de caractères
+
+Description : Écrire un programme qui copie une chaîne de caractères d'une variable à une autre, puis affiche la copie.
+
+    Objectif : Manipuler les chaînes de caractères, utilisation des boucles et des instructions de gestion de la mémoire.
+__________________________________________________________________________
+Exercice 8 : Programme interactif
+
+Description : Écrire un programme qui demande à l'utilisateur d'entrer un nombre, puis affiche si ce nombre est pair ou impair.
+
+    Objectif : Utiliser les appels système pour l'entrée de l'utilisateur, les conditions et la sortie.
+___________________________________________________________________________
+Exercice 9 : Opérations sur les bits
+
+Description : Écrire un programme qui effectue des opérations bit à bit (AND, OR, XOR, NOT) sur deux nombres et affiche les résultats.
+
+    Objectif : Comprendre et manipuler les opérations bit à bit en assembleur.
+__________________________________________________________________________
+Exercice 10 : Allocation dynamique de mémoire
+
+Description : Écrire un programme qui alloue dynamiquement de la mémoire pour un tableau d'entiers, remplit le tableau avec des valeurs, et puis libère la mémoire.
+
+    Objectif : Apprendre à utiliser les appels système pour l'allocation et la libération de mémoire, gestion de la mémoire dynamique.
+___________________________________________________________________________
+Exercice 11 : Calcul de Fibonacci (itératif et récursif)
+
+Description : Écrire deux programmes qui calculent les nombres de Fibonacci : l'un en utilisant une méthode itérative, l'autre en utilisant une méthode récursive.
+
+    Objectif : Comparer les deux approches, optimisation des appels de fonction, gestion efficace de la mémoire et des registres.
+__________________________________________________________________________
+Exercice 12 : Émulation d'une pile
+
+Description : Implémenter une pile (stack) en utilisant un tableau. Fournir les opérations push, pop et peek.
+
+    Objectif : Comprendre les structures de données de base, manipulation avancée de la mémoire et des pointeurs.
+___________________________________________________________________________
+Exercice 13 : Gestion d'interruptions
+
+Description : Écrire un programme qui installe un gestionnaire d'interruptions personnalisé pour gérer une interruption logicielle spécifique.
+
+    Objectif : Comprendre les interruptions, leur gestion et manipulation avancée du matériel.
+___________________________________________________________________________
+Exercice 14 : Mini-interpréteur de commandes
+
+Description : Écrire un programme qui lit des commandes simples de l'utilisateur et exécute des opérations basiques (comme addition, soustraction, affichage de texte).
+
+    Objectif : Comprendre les entrées/sorties, le parsing de chaînes de caractères, gestion des conditions et des boucles complexes.
+___________________________________________________________________________
+Exercice 15 : Simulateur de machine de Turing
+
+Description : Écrire un programme qui simule une machine de Turing pour une tâche simple, comme vérifier si une chaîne est un palindrome.
+
+    Objectif : Implémenter une machine de Turing en assembleur, manipulation avancée de la mémoire et gestion des états complexes.
+__________________________________________________________________________
